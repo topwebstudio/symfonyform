@@ -1,0 +1,13 @@
+{
+    "name": "topwebstudio/symfonyform",
+    "require": {
+        "symfony/form": "dev-master",
+        "symfony/twig-bridge": "dev-master",
+        "symfony/templating": "dev-master",
+        "symfony/security-csrf": "dev-master",
+        "twig/twig": "1.*",
+        "twig/extensions": "dev-master"
+    }
+}
+
+
